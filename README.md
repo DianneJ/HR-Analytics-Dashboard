@@ -59,6 +59,4 @@ Created DAX measures to calculate key performance indicators including employee 
 ### Business Value
 This dashboard demonstrates how Power BI can transform raw workforce data into actionable insights that support strategic decision-making. By consolidating key workforce metrics into a single interactive report, stakeholders can quickly identify trends, monitor attrition, and make informed workforce planning decisions.
 
-  
-(Add your screenshot here)
-
+<img width="1444" height="810" alt="department-analysis" src="https://github.com/user-attachments/assets/68e8ae04-1811-404c-bca1-55e9160c6300" />
